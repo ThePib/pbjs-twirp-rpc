@@ -1,6 +1,6 @@
 {
   "name": "pbjs-twirp-rpc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Protobuf.js RPC implementation for Twirp services",
   "main": "index.js",
   "repository": "https://github.com/ThePib/pbjs-twirp-rpc",
